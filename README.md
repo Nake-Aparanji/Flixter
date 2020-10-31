@@ -42,7 +42,7 @@ It is a common practice in app development and helps to simplify the way require
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/UcrOJNJ" width=250><br>
+<img src="https://i.imgur.com/UcrOJNJ.gif" width=250><br>
 
 
 ## Open-source libraries used

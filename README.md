@@ -41,8 +41,7 @@ It is a common practice in app development and helps to simplify the way require
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-
-  <img src="https://i.imgur.com/oQ0AaRV.gif" title="App Walkthrough" />
+<a href="https://imgur.com/oQ0AaRV"><img src="https://i.imgur.com/oQ0AaRV.gif" title="App Walkthrough" /></a>
 
 
 ## Open-source libraries used
